@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FankyenbraBabies
 - 👀 I’m interested in Data Analysis/Science
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on soccer data analysis
+- 💞️ I’m looking to collaborate on data analysis/science
 - 📫 How to reach me Twitter: @phrympung
 
 <!---
