@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FankyenbraBabies. Proficient in R and SQL
+- 👋 Hi, I’m @FankyenbraBabies. Proficient in Python, R and SQL
 - 👀 I’m interested in Data Analysis/Science
-- 🌱 Currenty learning Python
 - 💞️ I’m looking to collaborate on data analysis/science
 - 📫 How to reach me Twitter: @phrympung
 
